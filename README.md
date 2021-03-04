@@ -1,3 +1,5 @@
+Nice summary of key Java EE technologies at https://github.com/amir-toly/struts-site/blob/master/source/primer.md
+
 # Apache Struts Website
 
 This project is used to update the main Apache Struts website http://struts.apache.org/  
